@@ -4,7 +4,7 @@ Student Name: Jhen Rey P. Aniñon
 
 Course & Year: BSIT & SECTION 3
 
-Database Used:
+Database Used: sqlite
 
 Features:
 - Add Task
