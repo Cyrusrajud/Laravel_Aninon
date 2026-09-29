@@ -13,4 +13,4 @@ Features:
 - Delete Task
 - Update Status
 
-.md /Screenshots/Output.png
+![Output](Screenshots/Output.png)
